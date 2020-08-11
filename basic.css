@@ -1,0 +1,54 @@
+.switch{
+    position: fixed;
+    top: 900px;
+    width: 202px;
+    height: 56px;
+    background:rgba(38,130,182,1);
+    border:2px solid rgba(255,255,255,1);
+    border-radius:28px;
+    color: #fff;
+
+}
+.switch_icon{
+    background-image: url("images/填写@2x.png");
+    background-repeat: no-repeat;
+    width: 27px;
+    height: 27px;
+    background-size: 100%;
+    display: inline-block;
+    margin-left: 26px;
+    vertical-align: middle;
+}
+.switch_text{
+    line-height: 56px;
+    padding-left: 16px;
+    font-size: 18px;
+}
+.inquire_container{
+    width: 503px;
+    height: 503px;
+    position: absolute;
+    top: -550px;
+    background-color: #fff;
+}
+.blue_banner{
+    background-color: rgba(38,130,182,1);
+    height: 53px;
+    color: #fff;
+    position: relative;
+}
+.close_icon{
+    background-image: url("images/关闭@2x.png");
+    background-repeat: no-repeat;
+    width: 27px;
+    height: 27px;
+    background-size: 100%;
+    display: inline-block;
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+.inquire_form{
+
+}
